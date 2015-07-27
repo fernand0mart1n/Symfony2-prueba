@@ -99,3 +99,6 @@ fb8595,127.0.0.1,GET,http://localhost:8000/hello/Fer,1438007811,,200
 3dfaf4,127.0.0.1,GET,http://localhost:8000/hello/Fer,1438007905,,200
 f9b506,127.0.0.1,GET,http://localhost:8000/hello/Fer,1438007966,,200
 98a117,127.0.0.1,GET,http://localhost:8000/hello/Fer,1438008022,,200
+4c2b55,127.0.0.1,GET,http://127.0.0.1:8000/,1438008603,,200
+071f86,127.0.0.1,GET,http://127.0.0.1:8000/,1438008605,,200
+7c9abf,127.0.0.1,GET,http://localhost:8000/hello/Fer,1438008607,,200
